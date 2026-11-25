@@ -1,23 +1,25 @@
-<h1 align="center">Bentilzone Labs</h1>
+<h1 align="center">BentilZone</h1>
 
 <p align="center">
-  <strong>We build multi-tenant software for operations that run on a floor, a counter, or a loading bay.</strong>
+  <strong>Run your business, not your paperwork.</strong><br>Products we ship, systems we build for you, AI that does the daily work.
 </p>
 
 <p align="center">
+  <a href="https://bentilzone.com">bentilzone.com</a> ·
   <a href="https://mediusdesk.com">MediusDesk</a> ·
-  <a href="mailto:support@mediusdesk.com">Contact</a> ·
-  <a href="https://github.com/qbentil">Owner</a>
+  <a href="https://bentilzone.com/services">Services</a> ·
+  <a href="mailto:hello@bentilzone.com">Contact</a> ·
+  <a href="https://qbentil.dev">Owner</a>
 </p>
 
 ---
 
-## What we build
+## What we do
 
-Software for businesses whose work is physical and whose margins live in the details — the queue
-at the door, the stock on the shelf, the money at close of day. Every product we ship is
-multi-tenant from the first commit, because a business that grows into a second location should
-not need a second system.
+BentilZone is a software lab and service provider in Ghana. We run multi-tenant products that
+businesses use every day, build high-end B2B software for clients, and put AI to work inside
+their day-to-day operations. Every product we ship is multi-tenant from the first commit,
+because a business that grows into a second site should not need a second system.
 
 ## Products
 
@@ -31,21 +33,38 @@ on Premium.
 | | |
 |---|---|
 | **Industry** | Beauty, grooming and personal-care services |
+| **Status** | **Live** |
 | **Website** | [mediusdesk.com](https://mediusdesk.com) |
 | **Sign in** | [app.mediusdesk.com](https://app.mediusdesk.com) |
 | **Online bookings** | [bookings.mediusdesk.com](https://bookings.mediusdesk.com) |
 | **Support** | [support@mediusdesk.com](mailto:support@mediusdesk.com) |
 
-### Neuros — B2B distribution &amp; wholesale trade
+### Oikos — next
 
-A multi-distributor marketplace where distributors publish a catalogue, buyers raise quotations
-and orders against it, stock is reserved before it is promised, and money settles against a
-double-entry ledger. Optional escrow holds funds until delivery is confirmed.
+Our second product, built on the same foundations as MediusDesk. We publish features when they
+ship, not before.
 
 | | |
 |---|---|
-| **Industry** | Wholesale distribution, B2B trade and supply |
-| **Status** | **In development** — not yet publicly available |
+| **Status** | **In development** — not yet available |
+| **Early word** | [hello@bentilzone.com](mailto:hello@bentilzone.com?subject=Oikos) |
+
+## Services
+
+A small number of client engagements a year, in five shapes:
+
+1. **AI-powered solutions for daily operations.** Agents and automation that take over document
+   handling, back-office tasks and customer replies.
+2. **High-end B2B software, built bespoke.** Multi-tenant platforms, portals and back offices,
+   built in the open and handed over.
+3. **Integrations and data work.** Joining an operation to payments, messaging, hardware and the
+   systems it already runs.
+4. **Product design and strategy.** Discovery, prototypes and a roadmap before a build.
+5. **Consultancy.** A senior view on architecture, AI adoption and which systems to keep or replace.
+
+Discovery first; built in the open with pull requests and evidence; handed over in the client's
+own AWS account and repositories with the documentation to run it. Client work stays the
+client's — no engagement is named here. [bentilzone.com/services](https://bentilzone.com/services)
 
 ## How we work
 
@@ -60,13 +79,8 @@ double-entry ledger. Optional escrow holds funds until delivery is confirmed.
 
 ## Contact
 
-General and support: **[support@mediusdesk.com](mailto:support@mediusdesk.com)**
+General enquiries, partnerships and client work: **[hello@bentilzone.com](mailto:hello@bentilzone.com)**,
+or [book a 30-minute call](https://cal.com/shadrack-bentil-zwedwc/intro).
+Existing customers: **[support@bentilzone.com](mailto:support@bentilzone.com)** (MediusDesk users can also write to [support@mediusdesk.com](mailto:support@mediusdesk.com)). LinkedIn: [linkedin.com/in/bentil](https://linkedin.com/in/bentil).
 
 Most repositories here are private. If you are looking for something specific, write to us.
-
----
-
-<p align="center">
-  Bentilzone Labs is owned and operated by
-  <a href="https://github.com/qbentil"><strong>Bentil Shadrack</strong></a>.
-</p>
